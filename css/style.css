@@ -42,6 +42,10 @@ input[type="button"]:hover {
     outline: none;
 }
 
+input[type="button"]:focus{
+    background-color: #292A2D;
+}
+
 input[type="text"] {
     width: 340px;
     height: 80px;
